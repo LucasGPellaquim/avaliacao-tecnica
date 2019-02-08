@@ -1,0 +1,10 @@
+app/models/ObjetoArquivo.class
+app/util/json/Json.class
+app/models/Carro.class
+app/util/json/JsonHttpMessageConverter.class
+app/config/WebMvcConfig.class
+app/Application.class
+app/config/SecurityConfig.class
+app/controller/LocacaoController.class
+app/service/LojaService.class
+app/util/json/Json$JsonMensagem.class

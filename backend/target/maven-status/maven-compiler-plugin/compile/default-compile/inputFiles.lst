@@ -1,0 +1,9 @@
+/home/lucas/avaliacao-tecnica-lemaf/backend/src/main/java/app/config/SecurityConfig.java
+/home/lucas/avaliacao-tecnica-lemaf/backend/src/main/java/app/service/LojaService.java
+/home/lucas/avaliacao-tecnica-lemaf/backend/src/main/java/app/util/json/JsonHttpMessageConverter.java
+/home/lucas/avaliacao-tecnica-lemaf/backend/src/main/java/app/controller/LocacaoController.java
+/home/lucas/avaliacao-tecnica-lemaf/backend/src/main/java/app/models/ObjetoArquivo.java
+/home/lucas/avaliacao-tecnica-lemaf/backend/src/main/java/app/models/Carro.java
+/home/lucas/avaliacao-tecnica-lemaf/backend/src/main/java/app/util/json/Json.java
+/home/lucas/avaliacao-tecnica-lemaf/backend/src/main/java/app/Application.java
+/home/lucas/avaliacao-tecnica-lemaf/backend/src/main/java/app/config/WebMvcConfig.java
