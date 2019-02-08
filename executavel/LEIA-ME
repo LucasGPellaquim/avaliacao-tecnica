@@ -1,4 +1,4 @@
-Para executar o sistema basta inserir via terminal o local onde o arquivo .jar está localizado e inserir o seguinte comando: java -jar avaliacao-dev-1.0.0.jar ou java -jar avaliacao-dev-1.0.0.jar.original
-O arquivo ,jar está localizado dentro da pasta "backend", dentro a pasta "target"
-Para rodar, basta acessar o navegador e digitar http://localhost:9000/index.html#/
+Para executar o sistema basta inserir via terminal o local onde o arquivo .jar está localizado e inserir o seguinte comando: java -jar avaliacao-dev-1.0.0.jar
+
+Para rodar, basta acessar o navegador e digitar http://localhost:9000
 
